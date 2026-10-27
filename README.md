@@ -13,4 +13,4 @@ I am an undergraduate student majoring In Business Administration in Cybersecuri
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Danialah-alsh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Danialah-als)
 
-_"Your sample quote here!"_
+_"Learning is a key to success!"_
